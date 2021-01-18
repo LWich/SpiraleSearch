@@ -1,2 +1,2 @@
 #pragma once
-int spiralSearch(const int size, int* mas, int element);
+int spiralSearch(int size, int* mas, int element);
