@@ -1,5 +1,5 @@
 #include "spiralSearch.h"
-int f(int size, int* mas, int element)
+int spiralSearch(int size, int* mas, int element)
 {
 	int* center = new int;
 	int* step = new int;
